@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesncrypt",
+        "uuid": 993811,
+        "checksum": "1jd7cl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
